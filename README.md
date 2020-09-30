@@ -1,4 +1,4 @@
-# Sign-In-Extension
+# Banana Helmet Plugin
 
 ## Abstract
 
