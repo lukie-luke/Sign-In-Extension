@@ -1,4 +1,4 @@
-# Banana Helmet Plugin
+# Auto Sign In Plugin
 
 ## Abstract
 
